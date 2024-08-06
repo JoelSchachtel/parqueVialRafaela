@@ -76,7 +76,7 @@ Para preguntas o más información, puedes contactar a:
   - **Correo electrónico:** joelschachtel@hotmail.com
 # Diseñador del parque vial:
   - **Nombre:** Noelia Fladung
-  - **Correo electrónico:**
+  - **Correo electrónico:** noe_fladung@hotmail.com.ar
 
-  - **Nombre:** Evangelina Oggier
+  - **Nombre:** M.M.O Evangelina Oggier
   - **Correo electrónico:**
