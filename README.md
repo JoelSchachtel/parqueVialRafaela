@@ -49,10 +49,10 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 4. **Envía una solicitud de extracción**
    - Asegúrate de describir claramente los cambios realizados y por qué son      necesarios.
   
-##Licencia
+## Licencia
 Este proyecto está licenciado bajo la Municipalidad de Rafaela.
 
-##Contacto
+## Contacto
 Para preguntas o más información, puedes contactar a:
   - **Nombre:** Joel Schachtel
   - **Correo electrónico:** joelschachtel@hotmail.com
