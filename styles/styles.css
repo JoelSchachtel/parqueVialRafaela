@@ -444,6 +444,10 @@ footer {
 }
 
 .footer__nav {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  justify-content: center;
   margin: 30px 0;
 }
 
@@ -472,7 +476,10 @@ footer {
 }
 
 @media (max-width: 700px) {
-  .footer__nav{
+  .footer__nav ul{
+    display: flex;
+    text-align: center;
+    justify-content: center;
     flex-direction: column;
   }
 
