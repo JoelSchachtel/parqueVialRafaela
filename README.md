@@ -71,10 +71,10 @@ Este proyecto está licenciado bajo la Municipalidad de Rafaela.
 
 ## Contacto
 Para preguntas o más información, puedes contactar a:
-# Desarrollador:
+# Desarrollador Web y Diseñadoras del parque:
   - **Nombre:** Joel Schachtel
   - **Correo electrónico:** joelschachtel@hotmail.com
-# Diseñador del parque vial:
+
   - **Nombre:** Noelia Fladung
   - **Correo electrónico:** noe_fladung@hotmail.com.ar
 
