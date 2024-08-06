@@ -30,12 +30,23 @@ El bloque destinado al descanso y la recreación contara con módulos de contene
 Se ha previsto un área para guardar bicicletas municipales, combinado con una grada destinada para dar charlas teóricas antes de comenzar con el recorrido. Este bicicletero estará cerrado con portones corredizos por seguridad. 
 En lo que respecta al cerco perimetral, se considera columnas de hormigón prefabricadas y tejido. Poniendo del lado de adentro plantas para evitar que en caso de que algún niño no logre frenar, no golpee con el tejido, sino que las plantas amorticen. 
 
-## Funcionalidades
+## La página web
 
-- **Estaciones Educativas:** Incluye paneles informativos y señales de tránsito interactivas.
-- **Circuito de Carretera:** Un recorrido en miniatura con semáforos y señales para simular la experiencia de conducir.
-- **Actividades Prácticas:** Juegos y desafíos relacionados con las normas de tráfico.
-- **Área de Juego Libre:** Espacios abiertos para el juego y la exploración libre.
+1. **Visualización de Imágenes**
+Las imágenes en la página web permiten a los visitantes ver cómo será el parque, lo que ayuda a crear expectativa y a obtener apoyo de la comunidad. Mostrar el diseño, las áreas de recreación y las instalaciones facilita la comprensión de cómo se utilizará el espacio y cómo se integrarán los elementos educativos. Esto también ayuda a que las familias y las instituciones educativas visualicen el entorno en el que sus niños aprenderán sobre seguridad vial.
+
+2. **Información sobre los Educadores**
+Incluir información sobre los educadores proporciona transparencia y confianza a los visitantes. Los educadores son una parte fundamental del proyecto, ya que su experiencia y enfoque pedagógico son cruciales para la efectividad del programa. Al presentar sus perfiles, formación y experiencia, la página web asegura a los usuarios que están siendo guiados por profesionales capacitados y comprometidos con la educación vial.
+
+3. **Sistema de Turnos**
+El sistema de turnos permite a las instituciones y familias programar visitas al parque de manera organizada. Esto facilita la gestión del flujo de visitantes y asegura que cada grupo tenga el tiempo necesario para experimentar y aprender en el parque sin aglomeraciones. Además, el sistema de reservas permite al equipo del parque planificar y preparar las actividades de manera eficiente, optimizando el uso del espacio y los recursos. En este caso en particular, las reservas se realizan mediante Whatsapp.
+
+**Beneficios Adicionales de la Página Web**
+ - Accesibilidad: Facilita el acceso a la información sobre el parque y sus servicios desde cualquier lugar, aumentando la visibilidad del proyecto y facilitando el acceso a las personas interesadas.
+ - Actualizaciones: Permite actualizar a los usuarios sobre novedades, eventos especiales y cambios en los horarios o en la disponibilidad de servicios.
+ - Feedback: Ofrece una plataforma para que los visitantes proporcionen comentarios y sugerencias, lo cual es valioso para la mejora continua del parque.
+En resumen, la página web no solo sirve como una herramienta informativa, sino que también mejora la organización y gestión del parque, fomenta la participación de la comunidad y asegura una experiencia educativa efectiva y agradable para todos los usuarios.
+
 
 ## Contribuciones
 
