@@ -17,20 +17,6 @@ El proyecto "Parque Vial para Niños" tiene como objetivo crear un espacio educa
 - **Actividades Prácticas:** Juegos y desafíos relacionados con las normas de tráfico.
 - **Área de Juego Libre:** Espacios abiertos para el juego y la exploración libre.
 
-## Instalación
-
-1. **Preparar el Terreno:**
-   - Asegúrate de que el área esté libre de obstrucciones y sea segura para los niños.
-   
-2. **Montaje del Circuito:**
-   - Sigue las instrucciones detalladas para ensamblar el circuito de carretera y las estaciones educativas.
-
-3. **Instalación de Señales y Semáforos:**
-   - Coloca las señales de tránsito y los semáforos en las ubicaciones designadas.
-
-4. **Pruebas de Seguridad:**
-   - Realiza pruebas para asegurar que todos los elementos estén correctamente instalados y sean seguros para el uso de los niños.
-
 ## Contribuciones
 
 Si deseas contribuir al proyecto, por favor sigue estos pasos:
