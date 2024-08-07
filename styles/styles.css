@@ -36,6 +36,18 @@
   color: var(--text-dark);
 }
 
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #ffb700c4; /* Naranja con transparencia */
+  mix-blend-mode: overlay;
+  pointer-events: none;
+  z-index: -1;
+}
+
 .logo {
   font-size: 1.5rem;
   font-weight: 600;
@@ -48,10 +60,9 @@ video {
   left: 0;
   width: 100%;
   height: 100%;
-  filter: blur(5px) sepia(1) hue-rotate(30deg);
+  filter: blur(5px);
   object-fit: cover;
   z-index: -1;
-
 }
 
 a {
@@ -428,8 +439,7 @@ footer {
 .social__icons a:hover {
   color: var(--text-dark);
   background-color: white;
-  transition: .5s;
-
+  transition: 0.5s;
 }
 
 .social__icons a:hover i {
@@ -447,7 +457,7 @@ footer {
 .footer__nav ul {
   display: flex;
   justify-content: center;
-  list-style-type: none ;
+  list-style-type: none;
 }
 
 .footer__nav ul li a {
@@ -455,7 +465,7 @@ footer {
   margin: 20px;
   text-decoration: none;
   font-size: 1.1rem;
-  transition: .5s;
+  transition: 0.5s;
 }
 
 .footer__nav ul li a:hover {
@@ -469,7 +479,7 @@ footer {
 }
 
 @media (max-width: 700px) {
-  .footer__nav ul{
+  .footer__nav ul {
     display: flex;
     text-align: center;
     justify-content: center;
