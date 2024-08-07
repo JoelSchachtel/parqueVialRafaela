@@ -52,6 +52,9 @@ Incluir información sobre los educadores proporciona transparencia y confianza 
 3. **Sistema de Turnos**
 El sistema de turnos permite a las instituciones y familias programar visitas al parque de manera organizada. Esto facilita la gestión del flujo de visitantes y asegura que cada grupo tenga el tiempo necesario para experimentar y aprender en el parque sin aglomeraciones. Además, el sistema de reservas permite al equipo del parque planificar y preparar las actividades de manera eficiente, optimizando el uso del espacio y los recursos. En este caso en particular, las reservas se realizan mediante Whatsapp.
 
+4. **Sponsors y Apadrinamientos**
+Contar con el apoyo de sponsors y padrinos es esencial para el desarrollo y sostenibilidad del parque. Estos patrocinadores no solo aportan recursos económicos, sino que también fortalecen la credibilidad y alcance del proyecto. En la página web se destacarán las empresas e individuos que apoyan nuestra misión, mostrando su compromiso con la educación vial y el bienestar de la comunidad. Además, se ofrecerán opciones de apadrinamiento, donde los patrocinadores pueden asociarse a áreas específicas del parque o a programas educativos concretos, ayudando a mejorar continuamente nuestras instalaciones y actividades. Este apoyo es fundamental para mantener la calidad y accesibilidad de los servicios que ofrecemos.
+
 **Beneficios Adicionales de la Página Web**
  - Accesibilidad: Facilita el acceso a la información sobre el parque y sus servicios desde cualquier lugar, aumentando la visibilidad del proyecto y facilitando el acceso a las personas interesadas.
  - Actualizaciones: Permite actualizar a los usuarios sobre novedades, eventos especiales y cambios en los horarios o en la disponibilidad de servicios.
