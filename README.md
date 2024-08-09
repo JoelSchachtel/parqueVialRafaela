@@ -68,7 +68,7 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/parque-vial-ninos.git
+   git clone https://github.com/JoelSchachtel/parqueVialRafaela
 
 2. **Crea una Rama Nueva:**
    ```bash
@@ -78,7 +78,7 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
    - Realiza las modificaciones necesarias y prueba los cambios
 
 4. **Envía una solicitud de extracción**
-   - Asegúrate de describir claramente los cambios realizados y por qué son      necesarios.
+   - Asegúrate de describir claramente los cambios realizados y por qué son necesarios.
   
 ## Licencia
 Este proyecto está licenciado bajo la Municipalidad de Rafaela.
