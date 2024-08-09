@@ -68,7 +68,7 @@ Si deseas contribuir al proyecto, por favor sigue estos pasos:
 
 1. **Clona el Repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/parqueVialRafaela.git
+   git clone https://github.com/JoelSchachtel/parqueVialRafaela
 
 2. **Crea una Rama Nueva:**
    ```bash
