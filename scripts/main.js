@@ -7,12 +7,24 @@ const scrollRevealOption = {
   duration: 1000,
 };
 
+
 //Abre video de youtube
 document.getElementById("abrirPestana").addEventListener("click", function() {
   window.open("https://www.youtube.com/watch?v=xcbL6gK_LE0", "_blank");
 });
 
-document.getElementById("nav-contact").addEventListener("click", function () {
+document.getElementById("ri-whatsapp-line").addEventListener("click", function () {
+  const numeroTelefono = "5493492589129"; // Reemplaza con el número de teléfono en formato internacional sin el '+'
+  const mensaje =
+    "Hola, quisiera agendar un turno para visitar el parque vial."; // Mensaje opcional
+
+  const url = `https://wa.me/${numeroTelefono}?text=${encodeURIComponent(
+    mensaje
+  )}`;
+  window.open(url, "_blank");
+});
+
+document.getElementById("ri-whatsapp-line2").addEventListener("click", function () {
   const numeroTelefono = "5493492589129"; // Reemplaza con el número de teléfono en formato internacional sin el '+'
   const mensaje =
     "Hola, quisiera agendar un turno para visitar el parque vial."; // Mensaje opcional
@@ -38,4 +50,35 @@ navLinks.addEventListener("click", (e) => {
 ScrollReveal().reveal(".header__content", {
   ...scrollRevealOption,
   origin: "bottom",
+});
+
+// SWIPER
+var swiper = new Swiper(".nosotros__slide__content", {
+  slidesPerView: 3,
+  spaceBetween: 25,
+  loop: true,
+  centerSlide: true,
+  fade: true,
+  grabCursor: "true",
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+    dynamicBullets: true,
+  },
+  navigation: {
+    nextEl: "swiper-button-next",
+    prevEl: "swiper-button-prev",
+  },
+
+  breakpoints:{
+    0: {
+      slidesPerView: 1,
+    },
+    520: {
+      slidesPerView: 2,
+    },
+    950: {
+      slidesPerView: 3,
+    },
+  },
 });
