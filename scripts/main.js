@@ -7,6 +7,8 @@ const scrollRevealOption = {
   duration: 1000,
 };
 
+const faqs = document.querySelectorAll(".faqs")
+
 //Abre video de youtube
 document.getElementById("abrirPestana").addEventListener("click", function () {
   window.open("https://www.youtube.com/watch?v=xcbL6gK_LE0", "_blank");
@@ -80,6 +82,11 @@ ScrollReveal().reveal(".location", {
   origin: "bottom",
 });
 
+ScrollReveal().reveal(".faq", {
+  ...scrollRevealOption,
+  origin: "bottom",
+});
+
 // SWIPER
 var swiper = new Swiper(".nosotros__slide__content", {
   slidesPerView: 3,
@@ -120,3 +127,20 @@ var swiper = new Swiper(".nosotros__slide__content", {
 window.addEventListener("load", function () {
   document.getElementById("loader").classList.toggle("loader2");
 });
+
+
+//FAQ 
+
+ faqs.forEach(faq => {
+  faq.addEventListener('click', () => {
+
+    faqs.forEach(el => el.classList.remove('active'));
+
+    faq.classList.add('active');
+  });
+});
+
+if (faqs.length > 0) {
+  faqs[0].classList.add('active');
+}
+;
