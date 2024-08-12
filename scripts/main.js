@@ -72,6 +72,11 @@ ScrollReveal().reveal(".sponsors", {
   origin: "bottom",
 });
 
+ScrollReveal().reveal(".location", {
+  ...scrollRevealOption,
+  origin: "bottom",
+});
+
 // SWIPER
 var swiper = new Swiper(".nosotros__slide__content", {
   slidesPerView: 3,
