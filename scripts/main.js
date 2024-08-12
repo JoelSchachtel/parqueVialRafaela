@@ -7,33 +7,36 @@ const scrollRevealOption = {
   duration: 1000,
 };
 
-
 //Abre video de youtube
-document.getElementById("abrirPestana").addEventListener("click", function() {
+document.getElementById("abrirPestana").addEventListener("click", function () {
   window.open("https://www.youtube.com/watch?v=xcbL6gK_LE0", "_blank");
 });
 
-document.getElementById("ri-whatsapp-line").addEventListener("click", function () {
-  const numeroTelefono = "5493492589129"; // Reemplaza con el número de teléfono en formato internacional sin el '+'
-  const mensaje =
-    "Hola, quisiera agendar un turno para visitar el parque vial."; // Mensaje opcional
+document
+  .getElementById("ri-whatsapp-line")
+  .addEventListener("click", function () {
+    const numeroTelefono = "5493492589129"; // Reemplaza con el número de teléfono en formato internacional sin el '+'
+    const mensaje =
+      "Hola, quisiera agendar un turno para visitar el parque vial."; // Mensaje opcional
 
-  const url = `https://wa.me/${numeroTelefono}?text=${encodeURIComponent(
-    mensaje
-  )}`;
-  window.open(url, "_blank");
-});
+    const url = `https://wa.me/${numeroTelefono}?text=${encodeURIComponent(
+      mensaje
+    )}`;
+    window.open(url, "_blank");
+  });
 
-document.getElementById("ri-whatsapp-line2").addEventListener("click", function () {
-  const numeroTelefono = "5493492589129"; // Reemplaza con el número de teléfono en formato internacional sin el '+'
-  const mensaje =
-    "Hola, quisiera agendar un turno para visitar el parque vial."; // Mensaje opcional
+document
+  .getElementById("ri-whatsapp-line2")
+  .addEventListener("click", function () {
+    const numeroTelefono = "5493492589129"; // Reemplaza con el número de teléfono en formato internacional sin el '+'
+    const mensaje =
+      "Hola, quisiera agendar un turno para visitar el parque vial."; // Mensaje opcional
 
-  const url = `https://wa.me/${numeroTelefono}?text=${encodeURIComponent(
-    mensaje
-  )}`;
-  window.open(url, "_blank");
-});
+    const url = `https://wa.me/${numeroTelefono}?text=${encodeURIComponent(
+      mensaje
+    )}`;
+    window.open(url, "_blank");
+  });
 
 menuBtn.addEventListener("click", (e) => {
   navLinks.classList.toggle("open");
@@ -91,11 +94,15 @@ var swiper = new Swiper(".nosotros__slide__content", {
     dynamicBullets: true,
   },
   navigation: {
-    nextEl: "swiper-button-next",
-    prevEl: "swiper-button-prev",
+    nextEl: ".swiper-button-next",
+    prevEl: ".swiper-button-prev",
+  },
+  autoplay: {
+    delay: 3000,
+    disableOnInteraction: false,
   },
 
-  breakpoints:{
+  breakpoints: {
     0: {
       slidesPerView: 1,
     },
@@ -110,7 +117,6 @@ var swiper = new Swiper(".nosotros__slide__content", {
 
 //LOADER
 
-window.addEventListener("load", function(){
-  document.getElementById("loader").classList.toggle("loader2")
-  
-})
+window.addEventListener("load", function () {
+  document.getElementById("loader").classList.toggle("loader2");
+});
