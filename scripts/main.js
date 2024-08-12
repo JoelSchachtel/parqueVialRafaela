@@ -72,8 +72,6 @@ ScrollReveal().reveal(".sponsors", {
   origin: "bottom",
 });
 
-
-
 // SWIPER
 var swiper = new Swiper(".nosotros__slide__content", {
   slidesPerView: 3,
@@ -104,3 +102,10 @@ var swiper = new Swiper(".nosotros__slide__content", {
     },
   },
 });
+
+//LOADER
+
+window.addEventListener("load", function(){
+  document.getElementById("loader").classList.toggle("loader2")
+  
+})
