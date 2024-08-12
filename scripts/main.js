@@ -52,6 +52,28 @@ ScrollReveal().reveal(".header__content", {
   origin: "bottom",
 });
 
+ScrollReveal().reveal(".wrapper", {
+  ...scrollRevealOption,
+  origin: "bottom",
+});
+
+ScrollReveal().reveal(".title", {
+  ...scrollRevealOption,
+  origin: "bottom",
+});
+
+ScrollReveal().reveal(".swiper", {
+  ...scrollRevealOption,
+  origin: "bottom",
+});
+
+ScrollReveal().reveal(".sponsors", {
+  ...scrollRevealOption,
+  origin: "bottom",
+});
+
+
+
 // SWIPER
 var swiper = new Swiper(".nosotros__slide__content", {
   slidesPerView: 3,
