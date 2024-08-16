@@ -55,37 +55,16 @@ navLinks.addEventListener("click", (e) => {
 ScrollReveal().reveal(".header__content", {
   ...scrollRevealOption,
   origin: "bottom",
+  delay: 900,
 });
 
-ScrollReveal().reveal(".wrapper", {
+
+ScrollReveal().reveal(".contenedores", {
   ...scrollRevealOption,
   origin: "bottom",
+  delay: 500,
 });
 
-ScrollReveal().reveal(".title", {
-  ...scrollRevealOption,
-  origin: "bottom",
-});
-
-ScrollReveal().reveal(".swiper", {
-  ...scrollRevealOption,
-  origin: "bottom",
-});
-
-ScrollReveal().reveal(".sponsors", {
-  ...scrollRevealOption,
-  origin: "bottom",
-});
-
-ScrollReveal().reveal(".location", {
-  ...scrollRevealOption,
-  origin: "bottom",
-});
-
-ScrollReveal().reveal(".faq", {
-  ...scrollRevealOption,
-  origin: "bottom",
-});
 
 // SWIPER
 var swiper = new Swiper(".nosotros__slide__content", {
