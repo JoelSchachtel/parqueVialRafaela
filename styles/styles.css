@@ -282,11 +282,12 @@ main {
   margin-bottom: 12px;
   font-weight: 700;
   text-align: center;
+  color: var(--text-dark);
 }
 
 .card__box p {
   color: var(--muni-color);
-  text-align: center;
+  text-align: justify;
 }
 
 .card__box:hover i,
@@ -403,6 +404,7 @@ main {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.8s ease-out;
+  text-align: justify;
 }
 
 .answer p {
